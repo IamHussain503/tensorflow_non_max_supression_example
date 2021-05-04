@@ -1,3 +1,14 @@
+# Draw bounding boxes in object/image detection, and select the most approproate bounding box which has the highest probability of the class
+
+![image](https://user-images.githubusercontent.com/33412791/117081975-f54a6780-ad38-11eb-830f-239772a56bfd.png)
+
+
+
+
+
+
+
+
 # tensorflow_non_max_supression_example
 this repo contains most basic usage of tensorflow non_max_supression with concrete example
 
