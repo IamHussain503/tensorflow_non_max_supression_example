@@ -13,4 +13,6 @@ selected_indices = tf.image.non_max_suppression(
       boxes, scores, max_output_size, iou_threshold)
   selected_boxes = tf.gather(boxes, selected_indices)
   
+# click the link to access arguments and values
+  
   https://www.tensorflow.org/api_docs/python/tf/image/non_max_suppression#args
